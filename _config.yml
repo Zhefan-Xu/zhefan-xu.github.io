@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Zhefan Xu's Homepage"
 title_separator          : "-"
-name                     : &name "Zhefan Xu"
-description              : &description "PhD Candidate at Carnegie Mellon University (CMU)"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zhefan Xu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "PhD Candidate at Carnegie Mellon University"
+  location         : "Pittsburgh, Pennsylvania"
+  # employer         :
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=b_PtNQoAAAAJ&hl=en"
+  email            : "zhefanx@andrew.cmu.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Zhefan-Xu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Zhefan-Xu"
   google_plus      :
   keybase          :
   instagram        :
