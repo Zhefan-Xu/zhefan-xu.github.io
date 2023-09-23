@@ -26,6 +26,7 @@ Selected Research Projects
             <div style="flex: 2; margin: 0; padding: 0;">
                 <img src="/images/navigation1.GIF" alt="Navigation" style="width: 100% !important; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
+            <div style="width: 10px;"></div> <!-- Add a 10px wide space between the GIFs -->
             <div style="flex: 2; margin: 0; padding: 0;">
                 <img src="/images/navigation2.GIF" alt="Navigation" style="width: 100% !important; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
