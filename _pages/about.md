@@ -21,7 +21,7 @@ Selected Research Projects
 ------
 <div style="border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; margin: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
 
-**Autonomous Navigation**
+**Autonomous Navigation** \
 <img src="/images/navigation1.GIF" alt="Navigatoin">
 
 </div>
