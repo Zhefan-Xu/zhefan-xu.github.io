@@ -19,23 +19,19 @@ Research Interests
 
 Selected Research Projects
 ------
-<div style="border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; margin: 3px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; text-align: center">
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
-<h3 style="margin: 1;">Vision-aided Autonomous UAV Navigation in Dynamic Environments</h3>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px; padding: 10px 0;">
-    <div style="flex: 1; margin-left: 3px; margin-right: 3px;">
-        <!-- <h3>GIF 1</h3> -->
-        <img src="/images/navigation1.GIF" alt="Navigation" style="max-width: 100%; height: auto;">
-    </div>
-    <div style="flex: 1; margin-left: 3px; margin-right: 3px;">
-        <!-- <h3>GIF 2</h3> -->
-        <img src="/images/navigation2.GIF" alt="Navigation" style="max-width: 100%; height: auto;">
+<div style="border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; margin: 3px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; text-align: center;">
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%;">
+        <h3 style="margin: 0;">Vision-aided Autonomous UAV Navigation in Dynamic Environments</h3>
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px; padding: 10px 0;">
+            <div style="flex: 1; margin-left: 3px; margin-right: 3px;">
+                <img src="/images/navigation1.GIF" alt="Navigation" style="max-width: 100%; height: auto;">
+            </div>
+            <div style="flex: 1; margin-left: 3px; margin-right: 3px;">
+                <img src="/images/navigation2.GIF" alt="Navigation" style="max-width: 100%; height: auto;">
+            </div>
+        </div>
     </div>
 </div>
-
-
-</div>
-
 
 <!-- A data-driven personal website
 ======
