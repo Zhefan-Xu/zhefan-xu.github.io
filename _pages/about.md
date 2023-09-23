@@ -11,7 +11,13 @@ redirect_from:
 I am pursuing my Ph.D. degree in [Mechanical Engineering](https://www.meche.engineering.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) with a minor in [Machine Learning](https://www.ml.cmu.edu/). I lead the UAV Group in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.htmlhttps://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html). Before my Ph.D., I received my M.S. in Mechanical Engineering from Carnegie Mellon University in 2021. Prior to that, I obtained my B.S. in Mechanical Engineering from the [University of Pittsburgh](https://www.pitt.edu/) and my B.Eng. in Mechanical Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2019. My current research focuses on perception and planning for autonomous aerial robot navigation in dynamic environments.
 
 
-A data-driven personal website
+Research Interests
+======
+Planning and Perception: Designing computationally efficient planning and perception algorithms for robot navigation and obstacle avoidance in dynamic environments.
+Field Robots: Developing robotic systems for various industrial applications, including construction site inspection, exploration of unknown environments, and reconstruction. 
+Multi-Robot Systems: Coordinating heterogeneous robot teams of UAVs (Unmanned Aerial Vehicles) and UGVs (Unmanned Ground Vehicles) for complicated tasks.
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -48,4 +54,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
