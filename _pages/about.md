@@ -24,11 +24,11 @@ Selected Research Projects
         <h3 style="margin: 10px 0;">Autonomous UAV Navigation and Trajectory Planning in Dynamic Environments</h3>
         <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0;">
             <div style="flex: 2; margin-left: 8px; padding: 0;">
-                <img src="/images/navigation1.GIF" alt="Navigation" style="width: 400px; height: auto !important; margin: 0 !important; padding: 0 !important;">
+                <img src="/images/navigation1.GIF" alt="Navigation" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
             <div style="width: 8px;"></div> 
             <div style="flex: 2; margin-right: 8px; padding: 0;">
-                <img src="/images/navigation2.GIF" alt="Navigation" style="width: 400px; height: auto !important; margin: 0 !important; padding: 0 !important;">
+                <img src="/images/navigation2.GIF" alt="Navigation" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
         </div>
     </div>
