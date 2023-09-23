@@ -26,7 +26,6 @@ Selected Research Projects
             <div style="flex: 2; margin: 8px; padding: 0;">
                 <img src="/images/navigation1.GIF" alt="Navigation" style="width: 400px; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
-            <div style="width: 8px;"></div> <!-- Add an 8px wide space between the GIFs -->
             <div style="flex: 2; margin: 8px; padding: 0;">
                 <img src="/images/navigation2.GIF" alt="Navigation" style="width: 400px; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
