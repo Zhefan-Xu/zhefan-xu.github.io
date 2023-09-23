@@ -12,7 +12,6 @@ I am pursuing my Ph.D. degree in [Mechanical Engineering](https://www.meche.engi
 
 
 Research Interests
-<!-- ====== -->
 ------
 Planning and Perception: Designing computationally efficient planning and perception algorithms for robot navigation and obstacle avoidance in dynamic environments.
 Field Robots: Developing robotic systems for various industrial applications, including construction site inspection, exploration of unknown environments, and reconstruction. 
