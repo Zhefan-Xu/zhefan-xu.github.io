@@ -23,7 +23,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    **Zhefan Xu**, Kenji Shimada \
    *Submitted to IEEE International Conference on Robotics and Automation (**ICRA**)*, 2024.
 * [Low computational-cost detection and tracking of dynamic obstacles for mobile robots with RGB-D cameras](https://arxiv.org/abs/2303.00132) \
-   **Zhefan Xu\***, Xiaoyang Zhan\**, Yumeng Xiu, Christopher Suzuki, Kenji Shimada \
+   **Zhefan Xu\***, Xiaoyang Zhan\*, Yumeng Xiu, Christopher Suzuki, Kenji Shimada \
    *Submitted to IEEE Robotics and Automation Letters (**RAL**)*, 2023.
 * [A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles](https://ieeexplore.ieee.org/document/10167713) \
    **Zhefan Xu**, Baihan Chen, Xiaoyang Zhan, Yumeng Xiu, Christopher Suzuki, Kenji Shimada \
