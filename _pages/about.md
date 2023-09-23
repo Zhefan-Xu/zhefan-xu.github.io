@@ -23,15 +23,16 @@ Selected Research Projects
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%;">
         <h3 style="margin: 0;">Vision-aided Autonomous UAV Navigation in Dynamic Environments</h3>
         <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 10px; padding: 10px 0;">
-            <div style="flex: 1; margin: 0;">
+            <div style="flex: 2; margin: 0;">
                 <img src="/images/navigation1.GIF" alt="Navigation" style="max-width: 100%; height: auto; margin: 0;">
             </div>
-            <div style="flex: 1; margin: 0;">
+            <div style="flex: 2; margin: 0;">
                 <img src="/images/navigation2.GIF" alt="Navigation" style="max-width: 100%; height: auto; margin: 0;">
             </div>
         </div>
     </div>
 </div>
+
 
 
 
