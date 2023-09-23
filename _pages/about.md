@@ -19,22 +19,23 @@ Research Interests
 
 Selected Research Projects
 ------
-<div style="border: 1px solid #333; padding: 10px; margin: 10px; background-color: #f0f0f0;">
+<div style="border: 1px solid #333; padding: 10px; margin: 10px; background-color: #f0f0f0; width: 200px; height: 150px; border-radius: 10px;">
 
 ### Block 1
 
 This is the content of Block 1.
+![Navigation](/images/navigation1.GIF)
 
 </div>
 
-<div style="border: 1px solid #333; padding: 10px; margin: 10px; background-color: #f0f0f0;">
+<div style="border: 1px solid #333; padding: 10px; margin: 10px; background-color: #f0f0f0; width: 200px; height: 150px; border-radius: 10px;">
 
 ### Block 2
 
 This is the content of Block 2.
 
 </div>
-![Navigation](/images/navigation1.GIF)
+
 
 <!-- A data-driven personal website
 ======
