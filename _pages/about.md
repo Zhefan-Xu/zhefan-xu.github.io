@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing a Ph.D. in Mechanical Engineering at Carnegie Mellon University with a minor in Machine Learning. I lead the UAV Group in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.htmlhttps://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html).
+I am pursuing a Ph.D. in [Mechanical Engineering](https://www.meche.engineering.cmu.edu/) at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) with a minor in [Machine Learning](https://www.ml.cmu.edu/). I lead the UAV Group in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.htmlhttps://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html).
 
 
 A data-driven personal website
