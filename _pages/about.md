@@ -25,11 +25,11 @@ Selected Research Projects
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="margin-right: 10px;">
         <!-- <h3>GIF 1</h3> -->
-        <img src="/images/navigation1.GIF" alt="Navigation">
+        <img src="/images/navigation1.GIF" alt="Navigation" style="max-width: 100%; height: auto;">
     </div>
     <div style="margin-left: 10px;">
         <!-- <h3>GIF 2</h3> -->
-        <img src="/images/navigation2.GIF" alt="Navigation">
+        <img src="/images/navigation2.GIF" alt="Navigation" style="max-width: 100%; height: auto;">
     </div>
 </div>
 
