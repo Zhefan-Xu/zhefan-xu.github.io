@@ -24,10 +24,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    *Submitted to IEEE International Conference on Robotics and Automation (**ICRA**)*, 2024.
 * [Low computational-cost detection and tracking of dynamic obstacles for mobile robots with RGB-D cameras](https://arxiv.org/abs/2303.00132) \
    **Zhefan Xu\***, Xiaoyang Zhan\*, Yumeng Xiu, Christopher Suzuki, Kenji Shimada \
-   *Submitted to IEEE Robotics and Automation Letters (**RAL**)*, 2023.
+   *Submitted to IEEE Robotics and Automation Letters (**RA-L**)*, 2023.
 * [A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles](https://ieeexplore.ieee.org/document/10167713) \
    **Zhefan Xu**, Baihan Chen, Xiaoyang Zhan, Yumeng Xiu, Christopher Suzuki, Kenji Shimada \
-   *IEEE Robotics and Automation Letters (**RAL**)*, 2023.
+   *IEEE Robotics and Automation Letters (**RA-L**)*, 2023.
 * [A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera](https://ieeexplore.ieee.org/abstract/document/10161194) \
    **Zhefan Xu\***, Xiaoyang Zhan\*, Baihan Chen, Yumeng Xiu, Chenhao Yang, Kenji Shimada \
    *IEEE International Conference on Robotics and Automation (**ICRA**)*, 2023.
@@ -39,7 +39,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    *IEEE International Conference on Robotics and Automation (**ICRA**)*, 2022.
 * [Autonomous UAV exploration of dynamic environments via incremental sampling and probabilistic roadmap](https://ieeexplore.ieee.org/abstract/document/9362184) \
    **Zhefan Xu**, Di Deng, Kenji Shimada \
-   *IEEE Robotics and Automation Letters (**RAL**)*, 2021.
+   *IEEE Robotics and Automation Letters (**RA-L**)*, 2021.
 * [Frontier-based automatic-differentiable information gain measure for robotic exploration of unknown 3D environments](https://arxiv.org/abs/2011.05288) \
    Di Deng, **Zhefan Xu**, Wenbo Zhao, Kenji Shimada \
    *Preprint arXiv:2011.05288*, 2020.
