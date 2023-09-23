@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* B.S. in GitHub, GitHub University, 2012
+* [Heuristic-based Incremental Probabilistic Roadmap for Efficient UAV Exploration in Dynamic Environments](https://arxiv.org/abs/2309.09121) \
+   Zhefan Xu, Christopher Suzuki, Xiaoyang Zhan, Kenji Shimada \
+   IEEE International Conference on Robotics and Automation} (ICRA) 2024 (Under Review).
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
