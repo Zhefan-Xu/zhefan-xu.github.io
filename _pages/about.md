@@ -19,20 +19,13 @@ Research Interests
 
 Selected Research Projects
 ------
-<div style="border: 1px solid #333; padding: 10px; margin: 10px; background-color: #f0f0f0; width: 200px; height: 150px; border-radius: 10px;">
+<div style="border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; margin: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);">
 
-### Block 1
+### Block with GIF
 
-This is the content of Block 1.
-![Navigation](/images/navigation1.GIF)
+This is the content of Block with GIF.
 
-</div>
-
-<div style="border: 1px solid #333; padding: 10px; margin: 10px; background-color: #f0f0f0; width: 200px; height: 150px; border-radius: 10px;">
-
-### Block 2
-
-This is the content of Block 2.
+<img src="/images/navigation1.GIF" alt="A sample GIF">
 
 </div>
 
