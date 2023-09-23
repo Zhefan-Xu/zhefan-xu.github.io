@@ -15,15 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=b_PtNQoAAAAJ&hl=en) \
-
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=b_PtNQoAAAAJ&hl=en)
 * [Heuristic-based Incremental Probabilistic Roadmap for Efficient UAV Exploration in Dynamic Environments](https://arxiv.org/abs/2309.09121) \
    **Zhefan Xu\***, Christopher Suzuki\*, Xiaoyang Zhan, Kenji Shimada \
    *Submitted to IEEE International Conference on Robotics and Automation (**ICRA**)*, 2024.
 * [Quadcopter Trajectory Time Minimization and Robust Collision Avoidance via Optimal Time Allocation](https://arxiv.org/abs/2309.08544) \
    **Zhefan Xu**, Kenji Shimada \
    *Submitted to IEEE International Conference on Robotics and Automation (**ICRA**)*, 2024.
-* [Onboard dynamic-object detection and tracking for autonomous robot navigation with RGB-D camera](https://arxiv.org/abs/2303.00132) \
+* [Low computational-cost detection and tracking of dynamic obstacles for mobile robots with RGB-D cameras](https://arxiv.org/abs/2303.00132) \
    **Zhefan Xu\***, Xiaoyang Zhan\**, Yumeng Xiu, Christopher Suzuki, Kenji Shimada \
    *Submitted to IEEE Robotics and Automation Letters (**RAL**)*, 2023.
 * [A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles](https://ieeexplore.ieee.org/document/10167713) \
@@ -42,7 +41,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    **Zhefan Xu**, Di Deng, Kenji Shimada \
    *IEEE Robotics and Automation Letters (**RAL**)*, 2021.
 * [Frontier-based automatic-differentiable information gain measure for robotic exploration of unknown 3D environments](https://arxiv.org/abs/2011.05288) \
-   Di Deng, **Zhefan Xu**, Wenbo Zhao, Kenji Shimadaa \
+   Di Deng, **Zhefan Xu**, Wenbo Zhao, Kenji Shimada \
    *Preprint arXiv:2011.05288*, 2020.
 * [Coordinated aerial-ground robot exploration via monte-carlo view quality rendering](https://arxiv.org/abs/2011.05275) \
    Di Deng, **Zhefan Xu**, Wenbo Zhao, Kenji Shimada \
