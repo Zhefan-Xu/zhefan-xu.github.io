@@ -19,7 +19,7 @@ Research Interests
 
 Selected Research Projects
 ------
-![Navigation](image/navigation1.GIF)
+![Navigation](/images/navigation1.GIF)
 
 <!-- A data-driven personal website
 ======
