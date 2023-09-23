@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing a Ph.D. degree in [Mechanical Engineering](https://www.meche.engineering.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) with a minor in [Machine Learning](https://www.ml.cmu.edu/). I lead the UAV Group in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.htmlhttps://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html). Before my Ph.D. study, I received my M.S. in Mechanical Engineering from Carnegie Mellon University in 2021. Prior to that, I obtained my B.S. in Mechanical Engineering from [University of Pittsburgh](https://www.pitt.edu/) and B.Eng in Mechanical Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2019.
+I am pursuing a Ph.D. degree in [Mechanical Engineering](https://www.meche.engineering.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) with a minor in [Machine Learning](https://www.ml.cmu.edu/). I lead the UAV Group in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.htmlhttps://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html). Before my Ph.D. study, I received my M.S. in Mechanical Engineering from Carnegie Mellon University in 2021. Prior to that, I obtained my B.S. in Mechanical Engineering from [University of Pittsburgh](https://www.pitt.edu/) and B.Eng. in Mechanical Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2019.
 
 
 A data-driven personal website
