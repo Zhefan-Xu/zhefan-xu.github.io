@@ -120,7 +120,7 @@ Team Activity Highlights
   <p>
     03/2023: <em>MechE master thesis symposium. Two team members (Xiaoyang and Parth) won the best poster awards!</em> <strong>Pittsburgh, PA</strong>
   </p>
-  <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:5px; height:350px;" />
+  <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:5px; height:300px;" />
 </div>
 
 <div style="font-size: 20px;">
