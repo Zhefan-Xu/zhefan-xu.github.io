@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-The UAV team is composed of 5 to 15 graduate students within the Computational Engineering & Robotics Lab (CERLAB) at [Carnegie Mellon University](https://www.cmu.edu/). Our primary objective is leveraging our UAV technology expertise and developing algorithms to address real industrial projects. We specialize in industrial projects such as tunnel inspection, construction site mapping, and window frame inspection. Our team collaborates closely with prominent industrial partners ([YKK AP Inc.](https://www.ykkap.com/), [Obayashi Corporation](https://www.obayashi.co.jp/en/), [TOPRISE CO., LTD](https://www.toprise.jp/), etc.) to provide innovative solutions. I have led the UAV team since 2021.
+I have led the UAV team since 2021, and the UAV team is composed of 5 to 15 graduate students within the Computational Engineering & Robotics Lab (CERLAB) at [Carnegie Mellon University](https://www.cmu.edu/). Our primary objective is leveraging our UAV technology expertise and developing algorithms to address real industrial projects. We specialize in industrial tasks such as tunnel inspection, construction site mapping, and window frame inspection. Our team collaborates closely with prominent industrial partners ([YKK AP Inc.](https://www.ykkap.com/), [Obayashi Corporation](https://www.obayashi.co.jp/en/), [TOPRISE CO., LTD](https://www.toprise.jp/), etc.) to provide innovative solutions. 
 
 Team Robot Gallery
 ------
@@ -65,33 +65,33 @@ Team Robot Gallery
 
 Team Activity Highlights
 ------
-* <span style="font-size: 18px;">05/2023: *The team attending and presenting at the ICRA2023 conference.* **London, UK**.</span>  
+* <span style="font-size: 22px;">05/2023: *The team attending and presenting at the ICRA2023 conference.* **London, UK**.</span>  
 
   <img src="/images/london_poster.jpg" alt="Image 1" style="display:inline-block; margin-right:5px; height:300px;" />
   <img src="/images/london_bigben.png" alt="Image 2" style="display:inline-block; margin-right:5px; height:300px;" />
 
-* <span style="font-size: 18px;">03/2023: *MechE master thesis symposium. Two team members (Xiaoyang and Parth) won the best poster awards!* **Pittsburgh, PA**</span>  
+* <span style="font-size: 22px;">03/2023: *MechE master thesis symposium. Two team members (Xiaoyang and Parth) won the best poster awards!* **Pittsburgh, PA**</span>  
 
   <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:5px; height:350px;" />
 
-* <span style="font-size: 18px;">12/2022: *The team successfully completed the autonomous inspection demo for Obayashi Corporation and TOPRISE CO., LTD in the tunnel.* **Otaru, Japan**</span>  
+* <span style="font-size: 22px;">12/2022: *The team successfully completed the autonomous inspection demo for Obayashi Corporation and TOPRISE CO., LTD in the tunnel.* **Otaru, Japan**</span>  
 
   <!-- <img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:5px; height:170px;" /> -->
-  <img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="display:inline-block; margin-right:5px; height:220px;" />
-  <img src="/images/japan_tunnel_working.jpeg" alt="Image 6" style="display:inline-block; margin-right:5px; height:220px;" />
-  <img src="/images/japan_dinner_with_toprise.jpeg" alt="Image 7" style="display:inline-block; margin-right:5px; height:220px;" />
+  <img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="display:inline-block; margin-right:5px; height:225px;" />
+  <img src="/images/japan_tunnel_working.jpeg" alt="Image 6" style="display:inline-block; margin-right:5px; height:225px;" />
+  <img src="/images/japan_dinner_with_toprise.jpeg" alt="Image 7" style="display:inline-block; margin-right:5px; height:225px;" />
 
-* <span style="font-size: 18px;">10/2022: *The team conducting experiments in the Rays Hill Tunnel and presenting to TOPRISE CO., LTD.* **Breezewood, PA**</span>  
+* <span style="font-size: 22px;">10/2022: *The team conducting experiments in the Rays Hill Tunnel and presenting to TOPRISE CO., LTD.* **Breezewood, PA**</span>  
 
   <img src="/images/rayhill_together.jpeg" alt="Image 8" style="display:inline-block; margin-right:5px; height:265px;" />
   <img src="/images/ranhill_entrance.jpg" alt="Image 9" style="display:inline-block; margin-right:5px; height:265px;" />
   <img src="/images/rayhill_working.jpg" alt="Image 10" style="display:inline-block; margin-right:5px; height:265px;" />
 
-* <span style="font-size: 18px;">05/2022: *The team attending and presenting at the ICRA2022 conference* **Philadelphia, PA**</span>   
+* <span style="font-size: 22px;">05/2022: *The team attending and presenting at the ICRA2022 conference* **Philadelphia, PA**</span>   
 
   <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="display:inline-block; margin-right:5px; height:300px;" />
 
-* <span style="font-size: 18px;">11/2021: *The team celebrating the Thanksgiving Day in the Primanti Bros.* **Pittsburgh, PA**</span>  
+* <span style="font-size: 22px;">11/2021: *The team celebrating the Thanksgiving Day in the Primanti Bros.* **Pittsburgh, PA**</span>  
 
   <img src="/images/thanksgiving.jpeg" alt="Image 12" style="display:inline-block; margin-right:5px; height:300px;" />
 
