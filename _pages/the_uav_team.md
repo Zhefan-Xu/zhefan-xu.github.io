@@ -18,22 +18,23 @@ Team Facilities
 ------
 <div style="display: flex; justify-content: space-between; margin: 10px;">
     <!-- First Block -->
-    <div style="text-align: center;">
-        <img src="/images/big_drone.jpg" alt="Image 1" style="max-width: 100%; height: auto;">
+    <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
+        <img src="/images/big_drone.jpg" alt="Image 1" style="max-width: 100%; height: 200px;">
         <h3 style="margin: 10px 0;">F330 Customized Quadcopter</h3>
     </div>
     <!-- Second Block -->
-    <div style="text-align: center;">
-        <img src="/images/small_drone.jpg" alt="Image 2" style="max-width: 100%; height: auto;">
+    <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
+        <img src="/images/small_drone.jpg" alt="Image 2" style="max-width: 100%; height: 200px;">
         <h3 style="margin: 10px 0;">Q250 Customized Quadcopter</h3>
     </div>
     <!-- Third Block -->
-    <div style="text-align: center;">
-        <img src="/images/uvify_drone.png" alt="Image 3" style="max-width: 100%; height: auto;">
+    <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
+        <img src="/images/uvify_drone.png" alt="Image 3" style="max-width: 100%; height: 200px;">
         <h3 style="margin: 10px 0;">Uvify IFO-SX Quadcopter</h3>
     </div> 
-    <div style="text-align: center;">
-        <img src="/images/dji_drone.png" alt="Image 3" style="max-width: 100%; height: auto;">
+    <!-- Fourth Block -->
+    <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
+        <img src="/images/dji_drone.png" alt="Image 4" style="max-width: 100%; height: 200px;">
         <h3 style="margin: 10px 0;">DJI Matrix 100</h3>
     </div> 
 </div>
