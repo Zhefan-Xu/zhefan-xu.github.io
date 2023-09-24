@@ -17,18 +17,18 @@ Research Interests
 * **Field Robots:** Developing robotic systems for various industrial applications, including construction site inspection, exploration of unknown environments, and reconstruction. 
 * **Multi-Robot Systems:** Coordinating heterogeneous robot teams of UAVs (Unmanned Aerial Vehicles) and UGVs (Unmanned Ground Vehicles) for complicated tasks.
 
-Selected Research Projects
+Project Highlights
 ------
 <div style="border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; margin: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; text-align: center;">
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%;">
-        <h3 style="margin: 10px 0;">Autonomous UAV Navigation and Trajectory Planning in Dynamic Environments</h3>
+        <h3 style="margin: 10px 0;">Autonomous UAV Exploration based on Incremental Sampling and Probablistic Roadmap</h3>
         <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0;">
             <div style="flex: 2; margin-left: 8px; padding: 0;">
-                <img src="/images/navigation1.GIF" alt="Navigation" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
+                <img src="/images/exploration1.GIF" alt="Exploration1" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
             <div style="width: 8px;"></div> 
             <div style="flex: 2; margin-right: 8px; padding: 0;">
-                <img src="/images/navigation2.GIF" alt="Navigation" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
+                <img src="/images/exploration.gif" alt="Exploration2" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
         </div>
     </div>
@@ -39,11 +39,11 @@ Selected Research Projects
         <h3 style="margin: 10px 0;">Autonomous UAV Navigation and Trajectory Planning in Dynamic Environments</h3>
         <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0;">
             <div style="flex: 2; margin-left: 8px; padding: 0;">
-                <img src="/images/navigation1.GIF" alt="Navigation" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
+                <img src="/images/navigation1.GIF" alt="Navigation1" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
             <div style="width: 8px;"></div> 
             <div style="flex: 2; margin-right: 8px; padding: 0;">
-                <img src="/images/navigation2.GIF" alt="Navigation" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
+                <img src="/images/navigation2.GIF" alt="Navigation2" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
         </div>
     </div>
