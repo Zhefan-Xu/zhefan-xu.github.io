@@ -73,7 +73,7 @@ Project Highlights
             </div>
             <div style="width: 8px;"></div> 
             <div style="flex: 2; margin-right: 8px; padding: 0;">
-                <img src="/images/navigation2.GIF" alt="Navigation" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
+                <img src="/images/navigation_real.GIF" alt="Navigation" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
         </div>
     </div>
