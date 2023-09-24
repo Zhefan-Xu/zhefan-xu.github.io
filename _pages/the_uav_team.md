@@ -16,34 +16,34 @@ The UAV team is composed of 5 to 15 graduate students within the Computational E
 
 Team Facilities
 ------
-<div style="display: flex; justify-content: space-between; margin: 10px;">
+<div style="display: flex; justify-content: space-between; margin: 10px; flex-wrap: wrap;">
     <!-- First Block -->
-    <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; height: 220px;">
+    <div style="flex: 1; text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; margin: 5px;">
         <div style="height: 100%; overflow: hidden;">
             <img src="/images/big_drone.jpg" alt="Image 1" style="max-width: 100%; max-height: 100%;">
         </div>
-        <h3 style="margin-top: 0; margin-bottom: 0;">F330 Customized Quadcopter</h3>
+        <h3 style="margin: 10px 0; padding: 0;">F330 Customized Quadcopter</h3>
     </div>
     <!-- Second Block -->
-    <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; height: 220px;">
+    <div style="flex: 1; text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; margin: 5px;">
         <div style="height: 100%; overflow: hidden;">
             <img src="/images/small_drone.jpeg" alt="Image 2" style="max-width: 100%; max-height: 100%;">
         </div>
-        <h3 style="margin-top: 0; margin-bottom: 0;">Q250 Customized Quadcopter</h3>
+        <h3 style="margin: 10px 0; padding: 0;">Q250 Customized Quadcopter</h3>
     </div>
     <!-- Third Block -->
-    <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; height: 220px;">
+    <div style="flex: 1; text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; margin: 5px;">
         <div style="height: 100%; overflow: hidden;">
             <img src="/images/uvify_drone.png" alt="Image 3" style="max-width: 100%; max-height: 100%;">
         </div>
-        <h3 style="margin-top: 0; margin-bottom: 0;">Uvify IFO-SX Quadcopter</h3>
+        <h3 style="margin: 10px 0; padding: 0;">Uvify IFO-SX Quadcopter</h3>
     </div> 
     <!-- Fourth Block -->
-    <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; height: 220px;">
+    <div style="flex: 1; text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; margin: 5px;">
         <div style="height: 100%; overflow: hidden;">
             <img src="/images/dji_drone.png" alt="Image 4" style="max-width: 100%; max-height: 100%;">
         </div>
-        <h3 style="margin-top: 0; margin-bottom: 0;">DJI Matrix 100</h3>
+        <h3 style="margin: 10px 0; padding: 0;">DJI Matrix 100</h3>
     </div> 
 </div>
 
