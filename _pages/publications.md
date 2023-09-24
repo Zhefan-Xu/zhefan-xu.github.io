@@ -14,7 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=b_PtNQoAAAAJ&hl=en)
 * [Heuristic-based Incremental Probabilistic Roadmap for Efficient UAV Exploration in Dynamic Environments](https://arxiv.org/abs/2309.09121) \
    **Zhefan Xu\***, Christopher Suzuki\*, Xiaoyang Zhan, Kenji Shimada \
