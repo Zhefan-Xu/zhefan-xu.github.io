@@ -24,7 +24,7 @@ Team Facilities
     </div>
     <!-- Second Block -->
     <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
-        <img src="/images/small_drone.jpg" alt="Image 2" style="max-width: 100%; height: 200px;">
+        <img src="/images/small_drone.jpeg" alt="Image 2" style="max-width: 100%; height: 200px;">
         <h3 style="margin: 10px 0;">Q250 Customized Quadcopter</h3>
     </div>
     <!-- Third Block -->
