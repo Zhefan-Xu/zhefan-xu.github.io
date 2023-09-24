@@ -120,7 +120,7 @@ Team Activity Highlights
   <p>
     03/2023: <em>MechE master thesis symposium. Two team members (Xiaoyang and Parth) won the best poster awards!</em> <strong>Pittsburgh, PA</strong>
   </p>
-  <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:5px; height:300px;" />
+  <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:5px; height:350px;" />
 </div>
 
 <div style="font-size: 20px;">
@@ -146,14 +146,14 @@ Team Activity Highlights
   <p>
     05/2022: <em>The team attending and presenting at the ICRA2022 conference</em> <strong>Philadelphia, PA</strong>
   </p>
-  <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="display:inline-block; margin-right:5px; height:300px;" />
+  <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="display:inline-block; margin-right:5px; height:350px;" />
 </div>
 
 <div style="font-size: 20px;">
   <p>
     11/2021: <em>The team celebrating Thanksgiving Day in the Primanti Bros.</em> <strong>Pittsburgh, PA</strong>
   </p>
-  <img src="/images/thanksgiving.jpeg" alt="Image 12" style="display:inline-block; margin-right:5px; height:300px;" />
+  <img src="/images/thanksgiving.jpeg" alt="Image 12" style="display:inline-block; margin-right:5px; height:350px;" />
 </div>
 
 
