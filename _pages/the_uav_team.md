@@ -78,26 +78,26 @@ Team Activity Highlights
 
 <span style="font-size: 18px;">
 * 12/2022: *The team successfully completed the autonomous inspection demo for Obayashi Corporation and TOPRISE CO., LTD in the tunnel.* **Otaru, Japan**  
-  <img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:5px; height:170px;" />
-  <img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="display:inline-block; margin-right:5px; height:170px;" />
-  <img src="/images/japan_tunnel_working.jpeg" alt="Image 6" style="display:inline-block; margin-right:5px; height:170px;" />
-  <img src="/images/japan_dinner_with_toprise.jpeg" alt="Image 7" style="display:inline-block; margin-right:5px; height:170px;" />
+  <!-- <img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:5px; height:170px;" /> -->
+  <img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="display:inline-block; margin-right:5px; height:230px;" />
+  <img src="/images/japan_tunnel_working.jpeg" alt="Image 6" style="display:inline-block; margin-right:5px; height:230px;" />
+  <img src="/images/japan_dinner_with_toprise.jpeg" alt="Image 7" style="display:inline-block; margin-right:5px; height:230px;" />
 </span>
 
 <span style="font-size: 18px;">
 * 10/2022: *The team conducting experiments in the Rays Hill Tunnel and presenting to TOPRISE CO., LTD.* **Breezewood, PA**  
-  <img src="/images/rayhill_together.jpeg" alt="Image 8" style="display:inline-block; margin-right:5px; height:260px;" />
-  <img src="/images/ranhill_entrance.jpg" alt="Image 9" style="display:inline-block; margin-right:5px; height:260px;" />
-  <img src="/images/rayhill_working.jpg" alt="Image 10" style="display:inline-block; margin-right:5px; height:260px;" />
+  <img src="/images/rayhill_together.jpeg" alt="Image 8" style="display:inline-block; margin-right:5px; height:265px;" />
+  <img src="/images/ranhill_entrance.jpg" alt="Image 9" style="display:inline-block; margin-right:5px; height:265px;" />
+  <img src="/images/rayhill_working.jpg" alt="Image 10" style="display:inline-block; margin-right:5px; height:265px;" />
 </span>
 
 <span style="font-size: 18px;">
 * 05/2022: *The team attending and presenting at the ICRA2022 conference* **Philadelphia, PA**  
-  <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="display:inline-block; margin-right:5px; height:300px;" />
+  <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="display:inline-block; margin-right:5px; height:350px;" />
 </span>
 
 <span style="font-size: 18px;">
 * 11/2021: *The team celebrating the Thanksgiving Day in the Primanti Bros.* **Pittsburgh, PA**  
-  <img src="/images/thanksgiving.jpeg" alt="Image 12" style="display:inline-block; margin-right:5px; height:300px;" />
+  <img src="/images/thanksgiving.jpeg" alt="Image 12" style="display:inline-block; margin-right:5px; height:350px;" />
 </span>
 
