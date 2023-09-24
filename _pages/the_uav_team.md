@@ -75,7 +75,7 @@ Team Activity Highlights
 
   <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
 
-* <span style="font-size: 20px;">12/2022: *The team successfully completed the autonomous inspection demo for Obayashi Corporation and TOPRISE CO., LTD in the tunnel.* **Otaru, Japan**</span>  
+* <span style="font-size: 20px;">12/2022: *The team successfully completing the autonomous inspection demo for Obayashi Corporation and TOPRISE CO., LTD in the tunnel.* **Otaru, Japan**</span>  
 
   <!-- <img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:5px; height:170px;" /> -->
   <img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="display:inline-block; margin-right:5px; height:225px; max-height: 100%;" />
