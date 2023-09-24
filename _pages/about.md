@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing my Ph.D. degree in [Mechanical Engineering](https://www.meche.engineering.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) with a minor in [Machine Learning](https://www.ml.cmu.edu/). I lead the UAV Group in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html). Before my Ph.D., I received my M.S. in Mechanical Engineering from Carnegie Mellon University in 2021. Prior to that, I obtained my B.S. in Mechanical Engineering from the [University of Pittsburgh](https://www.pitt.edu/) and my B.Eng. in Mechanical Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2019. My current research focuses on perception and planning for autonomous aerial robot navigation in dynamic environments.
+I am pursuing my Ph.D. degree in [Mechanical Engineering](https://www.meche.engineering.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) with a minor in [Machine Learning](https://www.ml.cmu.edu/). I lead the UAV Team in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html). Before my Ph.D., I received my M.S. in Mechanical Engineering from Carnegie Mellon University in 2021. Prior to that, I obtained my B.S. in Mechanical Engineering from the [University of Pittsburgh](https://www.pitt.edu/) and my B.Eng. in Mechanical Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2019. My current research focuses on perception and planning for autonomous aerial robot navigation in dynamic environments.
 
 
 Research Interests
