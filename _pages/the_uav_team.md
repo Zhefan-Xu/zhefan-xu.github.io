@@ -42,21 +42,21 @@ Team Facilities
 <div style="display: flex; justify-content: space-between; margin: 10px; flex-wrap: wrap;">
     <!-- Fourth Block -->
     <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
-        <div style="height: 190px; overflow: hidden;">
+        <div style="height: 185px; overflow: hidden;">
             <img src="/images/dji_drone.png" alt="Image 4" style="width: auto; height: 100%; object-fit: contain;">
         </div>
         <h3 style="margin-top: 10px; margin-bottom: 0;">DJI Matrice 100</h3>
     </div> 
     <!-- Fifth Block -->
     <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
-        <div style="height: 190px; overflow: hidden;">
+        <div style="height: 185px; overflow: hidden;">
             <img src="/images/husky.jpeg" alt="Image 5" style="width: auto; height: 100%; object-fit: contain;">
         </div>
         <h3 style="margin-top: 10px; margin-bottom: 0;">Clearpath Husky UGV</h3>
     </div> 
     <!-- Sixth Block -->
     <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
-        <div style="height: 190px; overflow: hidden;">
+        <div style="height: 185px; overflow: hidden;">
             <img src="/images/spot.jpeg" alt="Image 6" style="width: auto; height: 100%; object-fit: contain;">
         </div>
         <h3 style="margin-top: 10px; margin-bottom: 0;">Boston Dynamics Spot</h3>
