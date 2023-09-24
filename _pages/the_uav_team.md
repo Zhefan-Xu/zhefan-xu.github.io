@@ -65,3 +65,15 @@ Team Robot Gallery
 
 Team Activities
 ------
+* 05/2023: The team attending ICRA2023 conference. **London, UK**.
+
+* 03/2023: MechE master thesis symposium. Two of the team members (Xiaoyang and Parth) won the best poster awards! **Pittsburgh, PA**
+
+* 12/2022: The team successfully completing the autonomous inspection demo for Obayashi Corporatio and TOPRISE CO., LTD in the construction tunnel. **Otaru, Japan**
+
+* 10/2022: Conducting experiments in the Rays Hill Tunnel and presenting to TOPRISE CO., LTD. **Breezewood, PA**
+
+* 05/2022: The team attending ICRA2022 conference. **Philadelphia, PA**
+
+* 11/2021: The team celebrating the Thanksgiving Day in the Primanti Bros. **Pittsburgh, PA**
+
