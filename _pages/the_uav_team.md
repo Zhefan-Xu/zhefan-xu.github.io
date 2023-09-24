@@ -66,7 +66,6 @@ Team Robot Gallery
 
 Team Activity Highlights
 ------
-his does not display well on the phone:
 * <span style="font-size: 20px;">05/2023: *The team attending and presenting at the ICRA2023 conference.* **London, UK**.</span>  
 
   <img src="/images/london_poster.jpg" alt="Image 1" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
