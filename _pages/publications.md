@@ -14,6 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=b_PtNQoAAAAJ&hl=en)
 * [Heuristic-based Incremental Probabilistic Roadmap for Efficient UAV Exploration in Dynamic Environments](https://arxiv.org/abs/2309.09121) \
    **Zhefan Xu\***, Christopher Suzuki\*, Xiaoyang Zhan, Kenji Shimada \
@@ -36,7 +37,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * [DPMPC-Planner: A real-time UAV trajectory planning framework for complex static environments with dynamic obstacles](https://ieeexplore.ieee.org/abstract/document/9811886) \
    **Zhefan Xu**, Di Deng, Yiping Dong, Kenji Shimada\\
    *IEEE International Conference on Robotics and Automation (**ICRA**)*, 2022.
-* [Autonomous UAV exploration of dynamic environments via incremental sampling and probabilistic roadmap](https://ieeexplore.ieee.org/abstract/document/9362184) \
+* [Autonomous UAV Exploration of Dynamic Environments Via Incremental Sampling and Probabilistic Roadmap](https://ieeexplore.ieee.org/abstract/document/9362184) \
    **Zhefan Xu**, Di Deng, Kenji Shimada \
    *IEEE Robotics and Automation Letters (**RA-L**)*, 2021.
 * [Frontier-based automatic-differentiable information gain measure for robotic exploration of unknown 3D environments](https://arxiv.org/abs/2011.05288) \
