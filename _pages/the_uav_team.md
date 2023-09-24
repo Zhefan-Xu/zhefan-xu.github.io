@@ -66,6 +66,8 @@ Team Robot Gallery
 Team Activities
 ------
 * 05/2023: The team attending ICRA2023 conference. **London, UK**.
+<img src="/team_photo/ICRA2023-London/poster.jpg" alt="Image 1" style="display:inline-block; margin-right:10px; height:150px;" />
+<img src="/team_photo/ICRA2023-London/poster.jpg" alt="Image 2" style="display:inline-block; margin-right:10px; height:150px;" />
 
 * 03/2023: MechE master thesis symposium. Two of the team members (Xiaoyang and Parth) won the best poster awards! **Pittsburgh, PA**
 
