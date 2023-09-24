@@ -13,7 +13,7 @@ author_profile: true
 {% endfor %}
 
 
-I have been leading the UAV team since 2021, and the team consists of 5-15 graduate students in the Computational Engineering & Robotics Lab (CERLAB) at [Carnegie Mellon University](https://www.cmu.edu/). Our objective is leveraging our UAV technology expertise and developing algorithms to address real industrial projects. We specialize in tasks such as tunnel inspection, construction site mapping, and window frame inspection. Our team collaborates closely with prominent industrial partners ([YKK AP Inc.](https://www.ykkap.com/), [Obayashi Corporation](https://www.obayashi.co.jp/en/), [TOPRISE CO., LTD](https://www.toprise.jp/), etc.) to provide innovative solutions. 
+I have been leading the UAV team since 2021, and the team consists of 5-15 graduate students in the Computational Engineering & Robotics Lab (CERLAB) at [Carnegie Mellon University](https://www.cmu.edu/). Our primary objective is leveraging our UAV technology expertise and developing algorithms to address real industrial projects. We specialize in industrial tasks such as tunnel inspection, construction site mapping, and window frame inspection. Our team collaborates closely with prominent industrial partners ([YKK AP Inc.](https://www.ykkap.com/), [Obayashi Corporation](https://www.obayashi.co.jp/en/), [TOPRISE CO., LTD](https://www.toprise.jp/), etc.) to provide innovative solutions. 
 
 Team Robot Gallery
 ------
