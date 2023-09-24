@@ -75,10 +75,13 @@ Team Activity Highlights
 * 12/2022: The team successfully completing the autonomous inspection demo for Obayashi Corporatio and TOPRISE CO., LTD in the construction tunnel. **Otaru, Japan**
 <img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:10px; height:150px;" />
 <img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="display:inline-block; margin-right:10px; height:150px;" />
-<img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:10px; height:150px;" />
-<img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:10px; height:150px;" />
+<img src="/images/japan_tunnel_working.jpeg" alt="Image 6" style="display:inline-block; margin-right:10px; height:150px;" />
+<img src="/images/japan_dinner_with_toprise.jpeg" alt="Image 7" style="display:inline-block; margin-right:10px; height:150px;" />
 
 * 10/2022: Conducting experiments in the Rays Hill Tunnel and presenting to TOPRISE CO., LTD. **Breezewood, PA**
+<img src="/images/rayhill_together.jpeg" alt="Image 8" style="display:inline-block; margin-right:10px; height:150px;" />
+<img src="/images/ranhill_entrance.jpg" alt="Image 9" style="display:inline-block; margin-right:10px; height:150px;" />
+<img src="/images/japan_dinner_with_toprise.jpeg" alt="Image 7" style="display:inline-block; margin-right:10px; height:150px;" />
 
 * 05/2022: The team attending ICRA2022 conference. **Philadelphia, PA**
 
