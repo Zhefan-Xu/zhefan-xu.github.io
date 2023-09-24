@@ -24,7 +24,7 @@ Project Highlights
         <h3 style="margin: 10px 0;">Autonomous UAV Exploration in Unknown and Dynamic Environments</h3>
         <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0;">
             <div style="flex: 2; margin-left: 8px; padding: 0;">
-                <img src="/images/exploration1.GIF" alt="Exploration1" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
+                <img src="/images/exploration1_no_annotation.GIF" alt="Exploration1" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
             </div>
             <div style="width: 8px;"></div> 
             <div style="flex: 2; margin-right: 8px; padding: 0;">
