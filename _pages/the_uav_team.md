@@ -66,53 +66,35 @@ Team Robot Gallery
 
 Team Activity Highlights
 ------
-<div style="font-size: 20px;">
-  <p>
-    05/2023: <em>The team attending and presenting at the ICRA2023 conference.</em> <strong>London, UK</strong>
-  </p>
-  <img src="/images/london_poster.jpg" alt="Image 1" style="max-width: 100%; height: auto; margin-right: 5px;" />
-  <img src="/images/london_bigben.png" alt="Image 2" style="max-width: 100%; height: auto; margin-right: 5px;" />
-</div>
+* <span style="font-size: 20px;">05/2023: *The team attending and presenting at the ICRA2023 conference.* **London, UK**.</span>  
 
-<div style="font-size: 20px;">
-  <p>
-    03/2023: <em>MechE master thesis symposium. Two team members (Xiaoyang and Parth) won the best poster awards!</em> <strong>Pittsburgh, PA</strong>
-  </p>
-  <img src="/images/master_symposium.jpg" alt="Image 3" style="max-width: 100%; height: auto; margin-right: 5px;" />
-</div>
+  <img src="/images/london_poster.jpg" alt="Image 1" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
+  <img src="/images/london_bigben.png" alt="Image 2" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
 
-<div style="font-size: 20px;">
-  <p>
-    12/2022: <em>The team successfully completed the autonomous inspection demo for Obayashi Corporation and TOPRISE CO., LTD in the tunnel.</em> <strong>Otaru, Japan</strong>
-  </p>
-  <!-- <img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="max-width: 100%; height: auto; margin-right: 5px;" /> -->
-  <img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="max-width: 100%; height: auto; margin-right: 5px;" />
-  <img src="/images/japan_tunnel_working.jpeg" alt="Image 6" style="max-width: 100%; height: auto; margin-right: 5px;" />
-  <img src="/images/japan_dinner_with_toprise.jpeg" alt="Image 7" style="max-width: 100%; height: auto; margin-right: 5px;" />
-</div>
+* <span style="font-size: 20px;">03/2023: *MechE master thesis symposium. Two team members (Xiaoyang and Parth) won the best poster awards!* **Pittsburgh, PA**</span>  
 
-<div style="font-size: 20px;">
-  <p>
-    10/2022: <em>The team conducting experiments in the Rays Hill Tunnel and presenting to TOPRISE CO., LTD.</em> <strong>Breezewood, PA</strong>
-  </p>
-  <img src="/images/rayhill_together.jpeg" alt="Image 8" style="max-width: 100%; height: auto; margin-right: 5px;" />
-  <img src="/images/ranhill_entrance.jpg" alt="Image 9" style="max-width: 100%; height: auto; margin-right: 5px;" />
-  <img src="/images/rayhill_working.jpg" alt="Image 10" style="max-width: 100%; height: auto; margin-right: 5px;" />
-</div>
+  <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:5px; height:350px; max-height: 100%;" />
 
-<div style="font-size: 20px;">
-  <p>
-    05/2022: <em>The team attending and presenting at the ICRA2022 conference</em> <strong>Philadelphia, PA</strong>
-  </p>
-  <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="max-width: 100%; height: auto; margin-right: 5px;" />
-</div>
+* <span style="font-size: 20px;">12/2022: *The team successfully completed the autonomous inspection demo for Obayashi Corporation and TOPRISE CO., LTD in the tunnel.* **Otaru, Japan**</span>  
 
-<div style="font-size: 20px;">
-  <p>
-    11/2021: <em>The team celebrating Thanksgiving Day in the Primanti Bros.</em> <strong>Pittsburgh, PA</strong>
-  </p>
-  <img src="/images/thanksgiving.jpeg" alt="Image 12" style="max-width: 100%; height: auto; margin-right: 5px;" />
-</div>
+  <!-- <img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:5px; height:170px;" /> -->
+  <img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="display:inline-block; margin-right:5px; height:225px; max-height: 100%;" />
+  <img src="/images/japan_tunnel_working.jpeg" alt="Image 6" style="display:inline-block; margin-right:5px; height:225px; max-height: 100%;" />
+  <img src="/images/japan_dinner_with_toprise.jpeg" alt="Image 7" style="display:inline-block; margin-right:5px; height:225px; max-height: 100%;" />
+
+* <span style="font-size: 20px;">10/2022: *The team conducting experiments in the Rays Hill Tunnel and presenting to TOPRISE CO., LTD.* **Breezewood, PA**</span>  
+
+  <img src="/images/rayhill_together.jpeg" alt="Image 8" style="display:inline-block; margin-right:5px; height:265px; max-height: 100%;" />
+  <img src="/images/ranhill_entrance.jpg" alt="Image 9" style="display:inline-block; margin-right:5px; height:265px; max-height: 100%;" />
+  <img src="/images/rayhill_working.jpg" alt="Image 10" style="display:inline-block; margin-right:5px; height:265px; max-height: 100%;" />
+
+* <span style="font-size: 20px;">05/2022: *The team attending and presenting at the ICRA2022 conference* **Philadelphia, PA**</span>   
+
+  <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
+
+* <span style="font-size: 20px;">11/2021: *The team celebrating the Thanksgiving Day in the Primanti Bros.* **Pittsburgh, PA**</span>  
+
+  <img src="/images/thanksgiving.jpeg" alt="Image 12" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
 
 
 
