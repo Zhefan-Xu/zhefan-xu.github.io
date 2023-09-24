@@ -38,6 +38,8 @@ Team Facilities
         </div>
         <h3 style="margin-top: 10px; margin-bottom: 0;">Uvify IFO-SX Quadcopter</h3>
     </div> 
+</div>
+<div style="display: flex; justify-content: space-between; margin: 10px; flex-wrap: wrap;">
     <!-- Fourth Block -->
     <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
         <div style="height: 200px; overflow: hidden;">
@@ -60,7 +62,5 @@ Team Facilities
         <h3 style="margin-top: 10px; margin-bottom: 0;">Boston Dynamic Spot</h3>
     </div> 
 </div>
-
-
 Team Activities
 ------
