@@ -65,28 +65,28 @@ Team Robot Gallery
 
 Team Activity Highlights
 ------
-* 05/2023: The team attending ICRA2023 conference. **London, UK**.  
-  <img src="/images/london_poster.jpg" alt="Image 1" style="display:inline-block; margin-right:10px; height:300px;" />
-  <img src="/images/london_bigben.png" alt="Image 2" style="display:inline-block; margin-right:10px; height:300px;" />
+* 05/2023: *The team attending and presenting at the ICRA2023 conference.* **London, UK**.  
+  <img src="/images/london_poster.jpg" alt="Image 1" style="display:inline-block; margin-right:5px; height:300px;" />
+  <img src="/images/london_bigben.png" alt="Image 2" style="display:inline-block; margin-right:5px; height:300px;" />
 
-* 03/2023: MechE master thesis symposium. Two of the team members (Xiaoyang and Parth) won the best poster awards! **Pittsburgh, PA**  
-  <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:10px; height:300px;" />
+* 03/2023: *MechE master thesis symposium. Two team members (Xiaoyang and Parth) won the best poster awards!* **Pittsburgh, PA**  
+  <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:5px; height:350px;" />
 
-* 12/2022: The team successfully completing the autonomous inspection demo for Obayashi Corporatio and TOPRISE CO., LTD in the construction tunnel. **Otaru, Japan**  
-  <img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:10px; height:160px;" />
-  <img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="display:inline-block; margin-right:10px; height:160px;" />
-  <img src="/images/japan_tunnel_working.jpeg" alt="Image 6" style="display:inline-block; margin-right:10px; height:160px;" />
-  <img src="/images/japan_dinner_with_toprise.jpeg" alt="Image 7" style="display:inline-block; margin-right:10px; height:160px;" />
+* 12/2022: *The team successfully completed the autonomous inspection demo for Obayashi Corporation and TOPRISE CO., LTD in the tunnel.* **Otaru, Japan**  
+  <img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:5px; height:180px;" />
+  <img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="display:inline-block; margin-right:5px; height:180px;" />
+  <img src="/images/japan_tunnel_working.jpeg" alt="Image 6" style="display:inline-block; margin-right:5px; height:180px;" />
+  <img src="/images/japan_dinner_with_toprise.jpeg" alt="Image 7" style="display:inline-block; margin-right:5px; height:180px;" />
 
-* 10/2022: Conducting experiments in the Rays Hill Tunnel and presenting to TOPRISE CO., LTD. **Breezewood, PA**  
-  <img src="/images/rayhill_together.jpeg" alt="Image 8" style="display:inline-block; margin-right:10px; height:200px;" />
-  <img src="/images/ranhill_entrance.jpg" alt="Image 9" style="display:inline-block; margin-right:10px; height:200px;" />
-  <img src="/images/rayhill_working.jpg" alt="Image 10" style="display:inline-block; margin-right:10px; height:200px;" />
+* 10/2022: *The team conducting experiments in the Rays Hill Tunnel and presenting to TOPRISE CO., LTD.* **Breezewood, PA**  
+  <img src="/images/rayhill_together.jpeg" alt="Image 8" style="display:inline-block; margin-right:5px; height:260px;" />
+  <img src="/images/ranhill_entrance.jpg" alt="Image 9" style="display:inline-block; margin-right:5px; height:260px;" />
+  <img src="/images/rayhill_working.jpg" alt="Image 10" style="display:inline-block; margin-right:5px; height:260px;" />
 
-* 05/2022: The team attending ICRA2022 conference. **Philadelphia, PA**  
-  <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="display:inline-block; margin-right:10px; height:300px;" />
+* 05/2022: *The team attending and presenting at the ICRA2022 conference* **Philadelphia, PA**  
+  <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="display:inline-block; margin-right:5px; height:300px;" />
 
-* 11/2021: The team celebrating the Thanksgiving Day in the Primanti Bros. **Pittsburgh, PA**  
-  <img src="/images/thanksgiving.jpeg" alt="Image 12" style="display:inline-block; margin-right:10px; height:300px;" />
+* 11/2021: *The team celebrating the Thanksgiving Day in the Primanti Bros.* **Pittsburgh, PA**  
+  <img src="/images/thanksgiving.jpeg" alt="Image 12" style="display:inline-block; margin-right:5px; height:300px;" />
 
 
