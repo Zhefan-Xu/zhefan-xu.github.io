@@ -66,12 +66,17 @@ Team Robot Gallery
 Team Activity Highlights
 ------
 * 05/2023: The team attending ICRA2023 conference. **London, UK**.
-<img src="london_poster.jpg" alt="Image 1" style="display:inline-block; margin-right:10px; height:150px;" />
-<img src="london_bigben.png" alt="Image 2" style="display:inline-block; margin-right:10px; height:150px;" />
+<img src="/images/london_poster.jpg" alt="Image 1" style="display:inline-block; margin-right:10px; height:150px;" />
+<img src="/images/london_bigben.png" alt="Image 2" style="display:inline-block; margin-right:10px; height:150px;" />
 
 * 03/2023: MechE master thesis symposium. Two of the team members (Xiaoyang and Parth) won the best poster awards! **Pittsburgh, PA**
+<img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:10px; height:150px;" />
 
 * 12/2022: The team successfully completing the autonomous inspection demo for Obayashi Corporatio and TOPRISE CO., LTD in the construction tunnel. **Otaru, Japan**
+<img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:10px; height:150px;" />
+<img src="/images/japan_tunnel_together.jpeg" alt="Image 5" style="display:inline-block; margin-right:10px; height:150px;" />
+<img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:10px; height:150px;" />
+<img src="/images/japan_tunnel_entrance.jpeg" alt="Image 4" style="display:inline-block; margin-right:10px; height:150px;" />
 
 * 10/2022: Conducting experiments in the Rays Hill Tunnel and presenting to TOPRISE CO., LTD. **Breezewood, PA**
 
