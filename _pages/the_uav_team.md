@@ -43,21 +43,21 @@ Team Facilities
         <div style="height: 200px; overflow: hidden;">
             <img src="/images/dji_drone.png" alt="Image 4" style="width: auto; height: 100%;">
         </div>
-        <h3 style="margin-top: 10px; margin-bottom: 0;">DJI Matrix 100</h3>
+        <h3 style="margin-top: 10px; margin-bottom: 0;">DJI Matrice 100</h3>
     </div> 
     <!-- Fifth Block -->
     <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
         <div style="height: 200px; overflow: hidden;">
             <img src="/images/husky.jpeg" alt="Image 5" style="width: auto; height: 100%;">
         </div>
-        <h3 style="margin-top: 10px; margin-bottom: 0;">DJI Matrix 100</h3>
+        <h3 style="margin-top: 10px; margin-bottom: 0;">Clearpath Husky</h3>
     </div> 
     <!-- Sixth Block -->
     <div style="text-align: center; border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px;">
         <div style="height: 200px; overflow: hidden;">
             <img src="/images/spot.jpeg" alt="Image 6" style="width: auto; height: 100%;">
         </div>
-        <h3 style="margin-top: 10px; margin-bottom: 0;">DJI Matrix 100</h3>
+        <h3 style="margin-top: 10px; margin-bottom: 0;">Boston Dynamic Spot</h3>
     </div> 
 </div>
 
