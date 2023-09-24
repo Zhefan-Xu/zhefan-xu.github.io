@@ -51,7 +51,7 @@ Project Highlights
 
 <div style="border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px; margin: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); border-radius: 10px; text-align: center;">
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%;">
-        <h3 style="margin: 10px 0;">Real-time Dynamic Obstacle Detecion and Tracking</h3>
+        <h3 style="margin: 10px 0;">Real-time Mapping with Dynamic Obstacle Detecion and Tracking</h3>
         <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0;">
             <div style="flex: 2; margin-left: 8px; padding: 0;">
                 <img src="/images/detection1.GIF" alt="Detection1" style="width: 450px; height: auto !important; margin: 0 !important; padding: 0 !important;">
