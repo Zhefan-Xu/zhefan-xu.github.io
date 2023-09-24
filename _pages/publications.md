@@ -25,13 +25,13 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * [Low computational-cost detection and tracking of dynamic obstacles for mobile robots with RGB-D cameras](https://arxiv.org/abs/2303.00132) \
    **Zhefan Xu\***, Xiaoyang Zhan\*, Yumeng Xiu, Christopher Suzuki, Kenji Shimada \
    *Submitted to IEEE Robotics and Automation Letters (**RA-L**)*, 2023.
-* [A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles](https://ieeexplore.ieee.org/document/10167713) \
+* [A Vision-Based Autonomous UAV Inspection Framework for Unknown Tunnel Construction Sites With Dynamic Obstacles](https://ieeexplore.ieee.org/document/10167713) \
    **Zhefan Xu**, Baihan Chen, Xiaoyang Zhan, Yumeng Xiu, Christopher Suzuki, Kenji Shimada \
    *IEEE Robotics and Automation Letters (**RA-L**)*, 2023.
 * [A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera](https://ieeexplore.ieee.org/abstract/document/10161194) \
    **Zhefan Xu\***, Xiaoyang Zhan\*, Baihan Chen, Yumeng Xiu, Chenhao Yang, Kenji Shimada \
    *IEEE International Conference on Robotics and Automation (**ICRA**)*, 2023.
-* [Vision-aided UAV navigation and dynamic obstacle avoidance using gradient-based B-spline trajectory optimization](https://ieeexplore.ieee.org/abstract/document/10160638) \
+* [Vision-aided UAV Navigation and Dynamic Obstacle Avoidance using Gradient-based B-spline Trajectory Optimization](https://ieeexplore.ieee.org/abstract/document/10160638) \
    **Zhefan Xu**, Yumeng Xiu, Xiaoyang Zhan, Baihan Chen, Kenji Shimada \
    *IEEE International Conference on Robotics and Automation (**ICRA**)*, 2023.
 * [DPMPC-Planner: A real-time UAV trajectory planning framework for complex static environments with dynamic obstacles](https://ieeexplore.ieee.org/abstract/document/9811886) \
