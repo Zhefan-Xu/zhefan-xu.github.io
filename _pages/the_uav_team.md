@@ -68,12 +68,12 @@ Team Activity Highlights
 ------
 * <span style="font-size: 20px;">05/2023: *The team attending and presenting at the ICRA2023 conference.* **London, UK**.</span>  
 
-  <img src="/images/london_poster.jpg" alt="Image 1" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
-  <img src="/images/london_bigben.png" alt="Image 2" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
+  <img src="/images/london_poster.jpg" alt="Image 1" style="display:inline-block; margin-right:5px; height:250px; max-height: 100%;" />
+  <img src="/images/london_bigben.png" alt="Image 2" style="display:inline-block; margin-right:5px; height:250px; max-height: 100%;" />
 
 * <span style="font-size: 20px;">03/2023: *MechE master thesis symposium. Two team members (Xiaoyang and Parth) won the best poster awards!* **Pittsburgh, PA**</span>  
 
-  <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
+  <img src="/images/master_symposium.jpg" alt="Image 3" style="display:inline-block; margin-right:5px; height:250px; max-height: 100%;" />
 
 * <span style="font-size: 20px;">12/2022: *The team successfully completing the autonomous inspection demo for Obayashi Corporation and TOPRISE CO., LTD in the tunnel.* **Otaru, Japan**</span>  
 
@@ -90,11 +90,11 @@ Team Activity Highlights
 
 * <span style="font-size: 20px;">05/2022: *The team attending and presenting at the ICRA2022 conference* **Philadelphia, PA**</span>   
 
-  <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
+  <img src="/images/ICRA2022_together.jpeg" alt="Image 11" style="display:inline-block; margin-right:5px; height:250px; max-height: 100%;" />
 
 * <span style="font-size: 20px;">11/2021: *The team celebrating the Thanksgiving Day in the Primanti Bros.* **Pittsburgh, PA**</span>  
 
-  <img src="/images/thanksgiving.jpeg" alt="Image 12" style="display:inline-block; margin-right:5px; height:300px; max-height: 100%;" />
+  <img src="/images/thanksgiving.jpeg" alt="Image 12" style="display:inline-block; margin-right:5px; height:250px; max-height: 100%;" />
 
 
 
