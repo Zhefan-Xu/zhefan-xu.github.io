@@ -19,17 +19,21 @@ Team Facilities
 <div style="display: flex; justify-content: space-between; margin: 10px;">
     <!-- First Block -->
     <div style="text-align: center;">
-        <img src="image1.jpg" alt="Image 1" style="max-width: 100%; height: auto;">
+        <img src="/images/big_drone.jpg" alt="Image 1" style="max-width: 100%; height: auto;">
         <h3 style="margin: 10px 0;">Block 1</h3>
     </div>
     <!-- Second Block -->
     <div style="text-align: center;">
-        <img src="image2.jpg" alt="Image 2" style="max-width: 100%; height: auto;">
+        <img src="/images/small_drone.jpg" alt="Image 2" style="max-width: 100%; height: auto;">
         <h3 style="margin: 10px 0;">Block 2</h3>
     </div>
     <!-- Third Block -->
     <div style="text-align: center;">
-        <img src="image3.jpg" alt="Image 3" style="max-width: 100%; height: auto;">
+        <img src="/images/uvify_drone.jpg" alt="Image 3" style="max-width: 100%; height: auto;">
+        <h3 style="margin: 10px 0;">Block 3</h3>
+    </div> 
+    <div style="text-align: center;">
+        <img src="/images/dji_drone.jpg" alt="Image 3" style="max-width: 100%; height: auto;">
         <h3 style="margin: 10px 0;">Block 3</h3>
     </div> 
 </div>
