@@ -21,9 +21,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * [Quadcopter Trajectory Time Minimization and Robust Collision Avoidance via Optimal Time Allocation](https://arxiv.org/abs/2309.08544) \
    **Zhefan Xu**, Kenji Shimada \
    *Submitted to IEEE International Conference on Robotics and Automation (**ICRA**)*, 2024.
-* [Low computational-cost detection and tracking of dynamic obstacles for mobile robots with RGB-D cameras](https://arxiv.org/abs/2303.00132) \
+* [Onboard dynamic-object detection and tracking for autonomous robot navigation with RGB-D camera](https://arxiv.org/abs/2303.00132) \
    **Zhefan Xu\***, Xiaoyang Zhan\*, Yumeng Xiu, Christopher Suzuki, Kenji Shimada \
-   *Submitted to IEEE Robotics and Automation Letters (**RA-L**)*, 2023.
+   *IEEE Robotics and Automation Letters (**RA-L**)*, 2023.
 * [A Vision-Based Autonomous UAV Inspection Framework for Unknown Tunnel Construction Sites With Dynamic Obstacles](https://ieeexplore.ieee.org/document/10167713) \
    **Zhefan Xu**, Baihan Chen, Xiaoyang Zhan, Yumeng Xiu, Christopher Suzuki, Kenji Shimada \
    *IEEE Robotics and Automation Letters (**RA-L**)*, 2023.
