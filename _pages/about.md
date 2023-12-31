@@ -12,7 +12,7 @@ I am pursuing my Ph.D. degree in [Mechanical Engineering](https://www.meche.engi
 
 <em>Contact Email: zhefanx@andrew.cmu.edu</em>
 
-<span style="color:red">*I am actively seeking 24 Summer Internship in Robotics/Autonomous Driving/Machine Learning. Welcome to reach out if you know any oppotunities!*</span>.
+<span style="color:red">*I am actively seeking 2024 Summer Internship in Robotics/Autonomous Driving/Machine Learning. Welcome to reach out if you know any oppotunities!*</span>.
 
 
 Research Interests
