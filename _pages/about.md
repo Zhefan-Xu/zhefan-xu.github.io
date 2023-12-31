@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing my Ph.D. degree in [Mechanical Engineering](https://www.meche.engineering.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) with a minor in [Machine Learning](https://www.ml.cmu.edu/). I lead [the UAV Team](http://zhefanxu.com/uav_team/) in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html). Before my Ph.D., I received my M.S. in Mechanical Engineering from Carnegie Mellon University in 2021. Prior to that, I obtained my B.S. in Mechanical Engineering from the [University of Pittsburgh](https://www.pitt.edu/) and my B.Eng. in Mechanical Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2019. My current research focuses on perception and planning for autonomous aerial robot navigation in dynamic environments.
+I am pursuing my Ph.D. degree in [Mechanical Engineering](https://www.meche.engineering.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) with a minor in [Machine Learning](https://www.ml.cmu.edu/). I lead [the UAV Team](http://zhefanxu.com/uav_team/) in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html). Before my Ph.D., I received my M.S. in Mechanical Engineering from Carnegie Mellon University in 2021. Prior to that, I obtained my B.S. in Mechanical Engineering from the [University of Pittsburgh](https://www.pitt.edu/) and my B.Eng. in Mechanical Engineering from [Sichuan University](https://en.scu.edu.cn/) in 2019. My current research focuses on perception and planning for autonomous aerial robot navigation in dynamic environments. **I am actively looking for collaborators in research. Please don't hesitate to reach out for potential collaboration!**
 
-Contact Email: zhefanx@andrew.cmu.edu
+**Contact Email: zhefanx@andrew.cmu.edu**
 
 <span style="color:red">*I am actively seeking 24 Summer Internship in Robotics/Autonomous Driving/Machine Learning. Welcome to reach out if you know any oppotunities!*</span>.
-
-<span style="color:red">*I am actively looking for collaborators in research and development to improve the UAV/robot autonomy level. Please don't hesitate to reach out for potential collaboration!*</span>.
 
 
 Research Interests
