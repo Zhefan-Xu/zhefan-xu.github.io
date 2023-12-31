@@ -8,4 +8,7 @@ main:
 
   - title: "The UAV Team"
     url: /uav_team/
+
+  - title: "Robotic Software"
+    url: https://github.com/Zhefan-Xu/CERLAB-UAV-Autonomy
     
