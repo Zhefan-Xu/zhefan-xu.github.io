@@ -20,7 +20,7 @@ Robotics
 Machine Learning
 ======
 * 10-701: Introduction to Machine Learning (PhD)
-* 10-703: Deep Reinforcement Learning & Control
+* 10-703: Deep Reinforcement Learning and Control
 * 10-707: Advanced Deep Learning
 * 11-785: Introduction to Deep Learning
 * 24-787: Machine Learning and Artificial Intelligence for Engineers
