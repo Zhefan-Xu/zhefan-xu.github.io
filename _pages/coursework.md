@@ -10,7 +10,7 @@ My graduate coursework at CMU mainly focuses on robotics, machine learning, and 
 
 Robotics
 ======
-* 16-350: Robotics Planning
+* 16-350: Planning Techniques for Robotics
 * 16-720: Computer Vision
 * 16-833: Robot Localization and Mapping
 * 16-891: Multi-Robot Planning and Coordination
