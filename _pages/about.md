@@ -12,9 +12,11 @@ I am pursuing my Ph.D. degree in [Mechanical Engineering](https://www.meche.engi
 
 \[[CV](https://zhefanxu.com/files/CV_Zhefan_Xu.pdf)\] \[[Google Scholar](https://scholar.google.com/citations?user=b_PtNQoAAAAJ&hl=en)\] \[[GitHub](https://github.com/Zhefan-Xu)\] \[[YouTube](https://youtube.com/@zhefanx2783?si=7-bY9p_PYfUyGHSa)\] \[[LinkedIn](https://www.linkedin.com/in/zhefanxu/)\]
 
-<span style="color:red">*I am actively seeking 2024 Summer Internship in Robotics/Autonomous Driving/Machine Learning. Welcome to reach out if you know any oppotunities!*</span>.
+<!-- <span style="color:red">*I am actively seeking 2024 Summer Internship in Robotics/Autonomous Driving/Machine Learning. Welcome to reach out if you know any oppotunities!*</span>. -->
 
 <em>Email: zhefanx@andrew.cmu.edu</em>
+
+
 
 Research Interests
 ------
